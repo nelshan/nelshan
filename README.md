@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Nelshan Paija 👋</h1>
+<h3 align="center">🎮 Unity Game Developer | 🗂️ Aspiring Project Manager</h3>
 
-<!--
-**nelshan/nelshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F07F00&center=true&vCenter=true&width=435&lines=Creating+with+Unity;Building+immersive+experiences;Adapting+Agile+processes" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎓 Unity developer passionate about crafting engaging and interactive games.
+- 📈 Enthusiastic about project management and agile methodologies.
+- 🌱 Exploring the intersection of game development and effective team leadership.
+- 📍 Based in Pokhara, Nepal
+
+---
+
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nelshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
