@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 - 🎓 Unity developer passionate about crafting engaging and interactive games.
-- 📈 Enthusiastic about project management and agile methodologies.
+- 📈 Enthusiastic about project management, UI/UX & Graphic Design.
 - 🌱 Exploring the intersection of game development and effective team leadership.
 - 📍 Based in Pokhara, Nepal
 
