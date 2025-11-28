@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Nelshan Paija 👋</h1>
-<h3 align="center">🎮 Unity Game Developer | 🗂️ Aspiring Project Manager</h3>
+<h3 align="center">🎮 Unity Game Developer and UI/UX Designer | 🗂️ Aspiring Project Manager</h3>
 
 <!-- Typing Animation -->
 <p align="center">
